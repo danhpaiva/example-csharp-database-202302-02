@@ -22,8 +22,10 @@
 </h2>
 
 <h2 id=objective>📜 About</h2>
+<p>
 Example of connecting to the SQLite database using C#.<br>
 SDK used .Net 7.<br>
+</p>
 
 <p>
 Nuget API
