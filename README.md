@@ -24,7 +24,7 @@
 <h2 id=objective>📜 About</h2>
 Example of connecting to the SQLite database using C#.<br>
 SDK used .Net 7.<br>
-
+<br>
 * Nuget API
 ~~~
 https://api.nuget.org/v3/index.json
