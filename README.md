@@ -23,7 +23,7 @@
 
 <h2 id=objective>📜 About</h2>
 Example of connecting to the SQLite database using C#.<br>
-SDK used .Net 7.
+SDK used .Net 7.<br>
 
 Nuget API
 ~~~
@@ -51,7 +51,7 @@ string connectionString = "Data Source=C:\\banco_loja\\DB_LOJA.db";
 The following tools were used in the construction of the project:
 
 - IDE: <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-- SQLite: <a href="https://www.mysql.com/">SQLite 3</a>
+- SQLite: <a href="https://www.sqlite.org/download.html">SQLite 3</a>
 
 <h2 id=author>😎 Author</h2>
 
@@ -59,4 +59,4 @@ Developed by <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank">Da
 
 <h2 id=licence>🆓 Licence</h2>
 View the license for this project 
-<a href="https://github.com/danhpaiva/example-csharp-database-202302-01/blob/main/LICENSE" target="_blank">MIT</a>
+<a href="https://github.com/danhpaiva/example-csharp-database-202302-02" target="_blank">MIT</a>
