@@ -27,6 +27,7 @@ SDK used .Net 7.<br>
 
 <p>
 Nuget API
+
 ~~~
 https://api.nuget.org/v3/index.json
 ~~~
