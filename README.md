@@ -35,12 +35,12 @@ https://api.nuget.org/v3/index.json
 ~~~
 </p>
 
-* Install Sqlite package - CLI do .Net
+Install Sqlite package - CLI do .Net
 ~~~
 dotnet add package Microsoft.Data.Sqlite
 ~~~
 
-* Connection example for SQLite:
+Connection example for SQLite:
 ~~~
 string connectionString = "Data Source=C:\\banco_loja\\DB_LOJA.db";
 ~~~
